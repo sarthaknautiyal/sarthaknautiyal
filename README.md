@@ -1,52 +1,56 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=180&section=header&text=MEMBER%20OF%20THE%20BROTHERHOOD&fontSize=22&fontColor=c2a642&animation=fadeIn&fontAlignY=38" />
-</p>
+<br clear="both">
 
-<h3 align="center"><i>"Where other men blindly follow the truth, remember... nothing is true. Where other men are limited by morality or law, remember... everything is permitted."</i></h3>
+<h1 data-importer="text" align="center">SARTHAK NAUTIYAL</h1>
 
----
+###
 
-### 🦅 [Synchronization Status]
+<br clear="both">
 
-* **Designation:** Master Assassin / Software Engineer
-* **Operational Base:** The Shadows / IDE
-* **Current Creed:** Clean Code, Scalable Architecture, and Silent Deploys
-* **Primary Objective:** Eliminating bugs from the timeline
+<p data-importer="text" align="left">Hello World!!</p>
 
----
+###
 
-### ⚔️ [Arsenal & Capabilities]
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,php,mysql,postgres,git,linux,idea&theme=dark" />
-</p>
+###
 
-* **Languages:** Java, PHP, JavaScript, TypeScript, C/C++
-* **Frameworks & Architecture:** Spring Boot, React.js, Next.js
-* **Databases & Systems:** MySQL, PostgreSQL, Relational Schema Design
-* **Tools & Environment:** Git, Linux, IntelliJ IDEA, Terminal
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/lq399.jpg"  />
 
----
+###
 
-### 📜 [Recent Contracts & Chronicles]
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+</div>
 
-* **[Warehouse Management System]** — Engineered a full-stack inventory and logistics tracking platform featuring Role-Based Access Control (RBAC) and optimized storage placement algorithms using Java, React, and MySQL.
+###
 
----
+<br clear="both">
 
-### 📊 [Animus Data Streams]
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c2a642&icon_color=c2a642&text_color=94a3b8&bg_color=0b0f19" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&title_color=c2a642&text_color=94a3b8&bg_color=0b0f19" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&stroke=c2a642&background=0b0f19&ring=c2a642&fire=c2a642&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" />
-</p>
+<br clear="both">
 
----
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=100&section=footer&text=REQVISIT_REQUIESCAT_IN_PACE&fontSize=14&fontColor=c2a642&fontAlignY=60" />
-</p>
+###
