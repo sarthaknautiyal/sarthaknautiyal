@@ -5,10 +5,12 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/sarthaknautiyal004/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="linkedin logo" />
+  </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="gmail logo" />
+  </a>
 </div>
 
 ###
