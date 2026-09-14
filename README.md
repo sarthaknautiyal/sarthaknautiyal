@@ -107,27 +107,6 @@
 
 ###
 
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="512" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
 <img data-importer="image" align="right" height="180" src="https://i.pinimg.com/1200x/6c/5a/5e/6c5a5e08d08a609d663a5866ff992f7a.jpg"  />
 
 ###
