@@ -4,15 +4,9 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sarthaknautiyal004/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="Gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/sarthaknautiyal004/" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="Gmail"></a>
 </div>
-
 ###
 
 <h1 data-importer="text" align="center">𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
