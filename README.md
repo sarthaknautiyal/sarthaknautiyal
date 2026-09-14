@@ -10,7 +10,7 @@
 
 ###
 <p align="center">
-  <img src="./sub - banner.png" width="50%">
+  <img src="./sub - banner2.png" width="50%">
 </p>
 <br clear="both">
 
