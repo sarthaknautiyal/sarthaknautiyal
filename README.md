@@ -127,6 +127,7 @@
   <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 
 <br clear="both">
+<br clear="both">
 
 ###
 <p data-importer="text" align="center">𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙑𝙞𝙚𝙬𝙨</p>
