@@ -117,6 +117,10 @@
 
 <br clear="both">
 
+<h1 data-importer="text" align="center">𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨</h1>
+
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
