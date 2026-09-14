@@ -66,7 +66,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  />
+<img data-importer="image" align="left" height="180" src="https://i.pinimg.com/originals/6d/0c/99/6d0c99bf3432ae8f447d2b3f8d1319aa.gif"  />
 
 ###
 
