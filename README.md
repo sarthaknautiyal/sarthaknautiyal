@@ -128,6 +128,12 @@
 
 <br clear="both">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthaknautiyal&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:sarthaknautiyal?theme=minecraft&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
+</div>
+
+###
 
 
