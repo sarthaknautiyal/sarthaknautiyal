@@ -130,8 +130,10 @@
 
 ###
 
+<br clear="both">
 <h3 data-importer="text" align="center">𝘗𝘳𝘰𝘧𝘪𝘭𝘦 𝘝𝘪𝘦𝘸𝘴 </h3>
 
+<br clear="both">
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:sarthaknautiyal?theme=minecraft&padding=7&scale=1&align=center&pixelated=1&darkmode=0"  />
 </div>
