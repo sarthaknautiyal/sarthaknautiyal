@@ -9,23 +9,25 @@
 </div>
 
 <h1 data-importer="text" align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>
+
+
 ###
 
 <br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="22" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
