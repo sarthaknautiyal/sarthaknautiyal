@@ -41,7 +41,6 @@
 
 ###
 
-<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -102,6 +101,7 @@
 
 <br clear="both">
 
+<br clear="both">
 
 <h1 data-importer="text" align="center">𝙃𝙤𝙗𝙗𝙞𝙚𝙨 & 𝙂𝙤𝙖𝙡𝙨</h1>
 
