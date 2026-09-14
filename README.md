@@ -121,9 +121,10 @@
 
 
 <div align="center">
+  <br clear="both">
+  
   <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 
 <br clear="both">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthaknautiyal&theme=github-dark&area=true&hide_border=false&radius=16&custom_title=Contribution%20Graph" height="200" alt="activity graph" />
-</div>
+ 
