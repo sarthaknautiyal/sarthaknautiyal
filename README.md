@@ -9,7 +9,7 @@
 </div>
 
 ###
-<p align="left">
+<p align="centre">
   <img src="./sub - banner2.png" width="50%">
 </p>
 <br clear="both">
