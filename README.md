@@ -1,15 +1,15 @@
+<p align="center">
+  <img src="./Banner2.png" width="100%">
+</p>
+<br clear="both">
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/sarthaknautiyal004/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="36" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="linkedin logo"  />
   </a>
-  <a href="<div data-importer="socials" align="center">   <a href="https://www.linkedin.com/in/sarthaknautiyal004/" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="36" alt="linkedin logo"  />   </a>   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="gmail logo"  />   </a> </div>  
-###  <h1 data-importer="text" align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>  
-###  <div data-importer="techs" align="center">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />   <img width="20" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />   <img width="20" />   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />   <img width="20" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />   <img width="20" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />   <img width="20" />   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />   <img width="20" />   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /> </div>  
-###" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="36" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="gmail logo"  />
   </a>
 </div>
-
 
 ###
 
@@ -65,6 +65,3 @@
 <p data-importer="text" align="left">> 𝘊𝘰𝘥𝘪𝘯𝘨 & 𝘦𝘹𝘱𝘦𝘳𝘪𝘮𝘦𝘯𝘵𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴<br>> 𝘌𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘈𝘐 & 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵<br>> 𝘗𝘳𝘰𝘣𝘭𝘦𝘮 𝘴𝘰𝘭𝘷𝘪𝘯𝘨<br>> 𝘎𝘢𝘮𝘪𝘯𝘨 &  𝘔𝘶𝘴𝘪𝘤<br>---------------------------------------------------------<br>> 𝘉𝘦𝘤𝘰𝘮𝘦 𝘢 𝘚𝘬𝘪𝘭𝘭𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳<br>> 𝘒𝘦𝘦𝘱 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘪𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨</p>
 
 ###
-
-
-
