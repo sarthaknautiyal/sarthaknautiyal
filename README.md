@@ -9,10 +9,12 @@
 </div>
 
 ###
-<p align="centre">
-  <img src="./sub - banner2.png" width="50%">
-</p>
+
 <br clear="both">
+
+<h2 data-importer="text" align="center">𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h2>
+
+###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
