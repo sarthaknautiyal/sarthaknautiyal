@@ -114,3 +114,10 @@
 <p data-importer="text" align="left">> 𝘊𝘰𝘥𝘪𝘯𝘨 & 𝘦𝘹𝘱𝘦𝘳𝘪𝘮𝘦𝘯𝘵𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴<br>> 𝘌𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘈𝘐 & 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵<br>> 𝘗𝘳𝘰𝘣𝘭𝘦𝘮 𝘴𝘰𝘭𝘷𝘪𝘯𝘨<br>> 𝘎𝘢𝘮𝘪𝘯𝘨 &  𝘔𝘶𝘴𝘪𝘤<br>---------------------------------------------------------<br>> 𝘉𝘦𝘤𝘰𝘮𝘦 𝘢 𝘚𝘬𝘪𝘭𝘭𝘦𝘥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳<br>> 𝘒𝘦𝘦𝘱 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘪𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨</p>
 
 ###
+
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
+</div>
