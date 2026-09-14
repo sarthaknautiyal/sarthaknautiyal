@@ -8,12 +8,13 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthaknautiyal401@gmail.com" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="36" alt="Gmail"></a>
 </div>
 
+<br clear="both">
 
 <h1 data-importer="text" align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>
 
 ###
 
-<br clear="both">
+
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -84,6 +85,7 @@
 ###
 
 
+<br clear="both">
 <h1 data-importer="text" align="center">𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h1>
 
 ###
