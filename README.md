@@ -117,7 +117,10 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/sarthaknautiyal/sarthaknautiyal/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sarthaknautiyal&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+<br clear="both">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthaknautiyal&theme=github-dark&area=true&hide_border=false&radius=16&custom_title=Contribution%20Graph" height="200" alt="activity graph" />
 </div>
