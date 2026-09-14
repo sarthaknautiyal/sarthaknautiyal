@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%">
+</p>
 <br clear="both">
 
 <h1 data-importer="text" align="center">SARTHAK NAUTIYAL</h1>
