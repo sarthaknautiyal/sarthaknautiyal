@@ -50,7 +50,7 @@
 
 ###
 
-
+<br clear="both">
 <br clear="both">
 <h1 data-importer="text" align="center">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 & 𝙏𝙤𝙤𝙡𝙨 𝙄 𝙃𝙖𝙫𝙚 𝙋𝙡𝙖𝙘𝙚𝙙 𝙈𝙮 𝙃𝙖𝙣𝙙𝙨 𝙊𝙣
 </h1>
@@ -105,7 +105,7 @@
 
 ###
 
-
+<br clear="both">
 
 <br clear="both">
 
